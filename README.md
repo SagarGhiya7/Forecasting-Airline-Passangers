@@ -1,4 +1,4 @@
-# Forecasting-Airline-Passangers
+# Forecasting-Airline-Passengers
 
 Goal is to predict the number of airline passengers from historical data with as much accuracy as possible.
 
